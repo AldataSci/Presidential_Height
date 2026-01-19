@@ -21,3 +21,6 @@ This project is a beginner's project that explores the presidential heights of U
 1. Clone This Repo
 2. Install Dependencies
 3. Open 'notebooks/Presidential_Height.ipynb' to view the analysis.
+
+
+
