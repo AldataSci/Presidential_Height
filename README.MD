@@ -1,4 +1,4 @@
-"# Presidential Heights Analysis" 
+# Presidential Heights Analysis
 
 ### Executive Summary
 
